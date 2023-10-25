@@ -1,0 +1,19 @@
+!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio Mensagens</title>
+</head>
+<body>
+  <h1>Testando carga como imagens</h1>
+     <p>Abaixo você vai er uma imagem que está na pasta.</p>
+     <img src="9c1f0ff6-ce52-4865-9099-483d9875dd4c_900_900.png" alt="logo HTML5"> 
+     <!--Redimecionar a imagem, para ajustar mo tamanho da tela-->
+     <p>Podemos também carregar imagens que estão em sub-pasta.</p>
+     <img src="imagens/logo css 200.png" alt="logo css3">
+     <P>Também podemos carregar imagens externas.</P>
+     <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2F1400%2Ff15f5662080793.5a8432e3d5b6b.jpg&tbnid=ftZ_42ZkegocWM&vet=12ahUKEwi64ImEvZGCAxVgg5UCHW4RAGAQMygFegQIARBv..i&imgrefurl=https%3A%2F%2Fwww.behance.net%2Fgallery%2F62080793%2FBart-Simpson&docid=2W80UBCrNp7KCM&w=1400&h=1325&q=bart&client=firefox-b-lm&ved=2ahUKEwi64ImEvZGCAxVgg5UCHW4RAGAQMygFegQIARBv" alt="bart simpson">
+</body>
+</html>
